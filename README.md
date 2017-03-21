@@ -7,3 +7,8 @@ A home for some of my random Python scripts
     - Uses all your cpus
 - **`bad_ram.py`**
     - Uses all your ram
+- **`zip_crack.py`**
+    - Encrypted Zip-file cracker
+- **`zip_crack_memory.py`**
+    - A memory-friendly version of the encrypted-zip cracker
+    
