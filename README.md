@@ -11,4 +11,8 @@ A home for some of my random Python scripts
     - Encrypted Zip-file cracker
 - **`zip_crack_memory.py`**
     - A memory-friendly version of the encrypted-zip cracker
+- **`seer.py`**
+    - Simple demo of super-basic neural-network weather prediction
+- **`seer2.py`**
+    - This version is re-written and very cleaned-up.
     
